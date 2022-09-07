@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SortingIntegers {
+public class Farhad {
 
     public static int[] randomArray(int length){
         int[] arr = new int[length];
